@@ -15,7 +15,7 @@
     #####Prints 'pong!' and message response latency.
   ####*roll (sides)
     #####Rolls a die with a specified number of sides and prints it to the discord channel.
-  ####*exOccur
+  ####*exoccur
     #####Prints an example occurence of a D20 roll, 1 being the worst luck and 20 being the best luck.
-  ####*coinFlip
+  ####*coinflip
     #####Flips a coin.
